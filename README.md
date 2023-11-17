@@ -155,15 +155,12 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w
 
 
 ## OUTPUT :
-    ![Screenshot 2023-11-17 113658](https://github.com/senthilpuli/Experiment-5-Implementation-of-XOR-using-RBF/assets/121471306/cfc41546-fb3c-4e48-a99a-d055c177abef)
-
-  ![Screenshot 2023-11-17 113718](https://github.com/senthilpuli/Experiment-5-Implementation-of-XOR-using-RBF/assets/121471306/fbd5e75f-79bf-44be-b5d1-7a52952b90c6)
+![Screenshot 2023-11-17 113658](https://github.com/senthilpuli/Experiment-5-Implementation-of-XOR-using-RBF/assets/121471306/cfc41546-fb3c-4e48-a99a-d055c177abef)
+![Screenshot 2023-11-17 113718](https://github.com/senthilpuli/Experiment-5-Implementation-of-XOR-using-RBF/assets/121471306/fbd5e75f-79bf-44be-b5d1-7a52952b90c6)
 
 
 ## RESULT:
-
-
-Implementation-of-XOR-using-RBF is successfully implemented.
+Thus, the Implementation-of-XOR-using-RBF is successfully implemented.
 
 
 
